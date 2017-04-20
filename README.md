@@ -1,3 +1,4 @@
+# Farmers Market
 This tool interacts with user's input, a bar, dot or graph pops up to show farmers market information. 
 Result graph (with random color) is automatically saved to user's local folder.
 
@@ -17,7 +18,12 @@ How many farmers' markets are within an area? (Longitude, Latitude)
 - uses Collections Library
 
 
-Choices of visualization:
+# Choices of visualization:
 - Tick
 - Dot 
 - Graph
+
+# Screenshots:
+![3](https://cloud.githubusercontent.com/assets/5422263/25247190/062bd1d4-25bf-11e7-8ea4-641f471da3d5.png)
+![7](https://cloud.githubusercontent.com/assets/5422263/25247193/08e024de-25bf-11e7-92bc-c54c5982bf76.png)
+![8](https://cloud.githubusercontent.com/assets/5422263/25247187/046a7328-25bf-11e7-9be4-21e9191162be.png)
