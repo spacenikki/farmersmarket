@@ -1,4 +1,4 @@
-# Farmers Market
+# Farmers Market Helper
 This tool interacts with user's input, a bar, dot or graph pops up to show farmers market information. 
 Result graph (with random color) is automatically saved to user's local folder.
 
